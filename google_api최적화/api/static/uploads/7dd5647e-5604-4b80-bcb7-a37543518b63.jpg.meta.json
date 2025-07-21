@@ -1,0 +1,14 @@
+{
+  "latitude": "37.579599972222226",
+  "longitude": "126.977",
+  "gps_source": "exif",
+  "has_exif": "True",
+  "camera_make": "TestCamera",
+  "camera_model": "TestModel",
+  "capture_time": "2025-07-16T16:30:00",
+  "place_name": "경복궁 연생전",
+  "address": "서울특별시 종로구 사직로 161",
+  "upload_time": "2025-07-16T17:11:50.361703",
+  "content_type": "image/jpeg",
+  "file_size": 33606
+}
